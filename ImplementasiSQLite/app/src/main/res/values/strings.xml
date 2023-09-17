@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Acara 28</string>
+    <string name="Buat_Biodata_Baru">BUAT BIODATA BARU</string>
+    <string name="Simpan">Simpan</string>
+    <string name="Kembali">Kembali</string>
+    <string name="Update">Update</string>
+    <string name="Delete">Delete</string>
+</resources>
